@@ -1,0 +1,3 @@
+Name: Isabel
+Age: 32
+Favorite color: Red
